@@ -6,4 +6,5 @@ dependencies:
   - scikit-learn
   - seaborn
   - scipy
+  - jupyterlab
 prefix: C:\Users\ryant\anaconda3\envs\isye_6644_kolimago_thompson
