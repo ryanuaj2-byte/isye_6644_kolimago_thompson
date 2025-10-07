@@ -1,0 +1,9 @@
+name: isye_6644_kolimago_thompson
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - seaborn
+  - scipy
+prefix: C:\Users\ryant\anaconda3\envs\isye_6644_kolimago_thompson
